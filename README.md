@@ -37,7 +37,3 @@ The data was cleaned and processed using Python’s Pandas library and connected
 - **Ergast API**: [Ergast API](http://ergast.com/)
   - Provides telemetry datasets, including tire data and engine RPM data.
   - Utilized for visualizing car-level data for specific race visualizations.
-
-## How to Use
-1. Open the Tableau file.
-2. Explore the dashboards and stories to gain insights into F1 and the 2021 season.
