@@ -1,5 +1,4 @@
-# Computation-and-Visualization
-
+# Formula-1-Drivers-Championship-Dashboard-and-Analysis
 ## Introduction
 Our main objective is to introduce the sport of F1 through various Tableau visualizations and tell the story of the 2021 season’s battle for the championship between Lewis Hamilton and Max Verstappen. Using car-level data, we highlight the underdog story of RedBull Racing and Max Verstappen against the Mercedes Team with Hamilton.
 
