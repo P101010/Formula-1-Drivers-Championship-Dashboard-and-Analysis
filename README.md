@@ -12,7 +12,7 @@ The data was cleaned and processed using Python’s Pandas library and connected
 - Includes a world map of all circuits with interactive hover effects to show total races.
 - Users can filter stats to view information about their favorite racer or team.
 
-### Dashboard 2 – F1 2021 Season
+### Dashboard – F1 2021 Season
 - Highlights key moments and statistics of the 2021 season, known as one of the best in recent times.
 - Interactive filters allow users to view details by race number, circuit stats, GP name, grid standings, and lap time deltas.
 - Visualizes telemetry data such as throttle responses, braking, engine RPMs, DRS usage, gear data, and speeds.
