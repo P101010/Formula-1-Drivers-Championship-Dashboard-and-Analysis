@@ -6,7 +6,7 @@ The data was cleaned and processed using Python’s Pandas library and connected
 
 ## Dashboards and Story Visualizations
 
-### Dashboard 1 – F1 History (1950-2021)
+### Story - F1 History (1950-2021)
 - Provides introductory stats and visualizations to help newcomers understand F1.
 - Contains stats about past winners, both drivers and teams.
 - Includes a world map of all circuits with interactive hover effects to show total races.
@@ -18,7 +18,7 @@ The data was cleaned and processed using Python’s Pandas library and connected
 - Visualizes telemetry data such as throttle responses, braking, engine RPMs, DRS usage, gear data, and speeds.
 - Displays race pace and tire strategies based on user-defined filters.
 
-### F1 2021 Battle for the Championship
+### Story - F1 2021 Battle for the Championship
 - Narrates the events of the 2021 season, focusing on the battle between Hamilton and Verstappen.
 - Uses graphs for lap progression, fastest laps, and driver pace with box plots and line plots.
 - Annotations highlight pit stops, tire strategies, safety car deployments, and other key events.
